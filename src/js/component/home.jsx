@@ -39,15 +39,6 @@ const Home = () => {
 			<div className="container-fluid">
 			<Jumbotron />
 			<Grid />
-			{/* <div className="container px-4 text-center">
-				<div className="row">
-					{dataCards.map((item, index) => (
-						<div className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4" style={{height:"500px",width:"325px"}} key={index}>
-							<Card dataCards={item} />
-						</div>
-					))}
-				</div>
-			</div> */}
 			</div>
 			<Footer />
 		</div>
